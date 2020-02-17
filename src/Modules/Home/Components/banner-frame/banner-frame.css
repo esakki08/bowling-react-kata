@@ -4,5 +4,8 @@
     margin: 2.5% 33.3% 2.5%;
 }
 .title {
-
+    font-size: 60px;
+    text-align: center;
+    color: steelblue;
+    font-family: cursive;
 }
