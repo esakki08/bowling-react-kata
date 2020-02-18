@@ -1,0 +1,11 @@
+.game-area {
+    width: 51.25%;
+    margin: 2.5% 1.25% auto auto; 
+}
+.game-area .container {
+    min-height: 512px;
+    border: 5px solid #65f2f9;
+    overflow: hidden;
+    background: #ececec;
+    border-radius: 25px;
+}

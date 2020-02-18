@@ -1,0 +1,9 @@
+.score-card{
+    width: 75%;
+    margin: 2.5% auto auto; 
+}
+
+.score-card .container { 
+    min-height: 128px;
+    border: 5px solid grey;
+}
