@@ -1,0 +1,8 @@
+.action-box {
+    width: 21.25%;
+    margin: 2.5% auto auto 1.25%; 
+}
+.action-box .container {
+    min-height: 512px;
+    border: 5px solid grey;
+}
