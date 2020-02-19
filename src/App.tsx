@@ -7,9 +7,9 @@ import { PlayArena } from './Modules/Play-Arena';
 function App() {
   return (
     <div className="App">
-      {/* <Home /> */}
+      <Home />
       {/* <Loader /> */}
-      <PlayArena />
+      {/* <PlayArena /> */}
     </div>
   );
 }
